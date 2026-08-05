@@ -1,0 +1,502 @@
+product_id,product_name,brand,category,unit_size,unit_type
+P0001,10ltr Tilting Wet Grinder (W) Crate Packing,,Appliances,10.0,L
+P0002,2 lit Wet Grinder Tilting (Heavy Type),,Appliances,2.0,L
+P0003,3ltr Industrial SS Wetgrinder (W) 0.5hp 1ph Ld Motor (Gear) with Crate Packing,,Appliances,3.0,L
+P0004,3ltr Tilting Wet Grinder,,Appliances,3.0,L
+P0005,555 Medium Triple Glass Lid,,Kitchenware,,
+P0006,555 Steamer Big (334),,Kitchenware,,
+P0007,5ltr Tilting Wet Grinder W Crate Packing,,Appliances,5.0,L
+P0008,Aluminium Anodised Handy,,Kitchenware,,
+P0009,Aluminium Anodised Uruli,,Kitchenware,,
+P0010,Aluminium Utensils - Handy - 10-22,,Kitchenware,,
+P0011,Aluminium Utensils Handy 8-9,,Kitchenware,,
+P0012,Aluminium Vis Muram,,Kitchenware,,
+P0013,Appachetty (205),,Kitchenware,,
+P0014,Appachetty 4mm (204),,Kitchenware,4.0,MM
+P0015,B03-1268 Pyali Deep No 4 (Swastik),,Pooja & Handicrafts,,
+P0016,B03-1321 Tk Srinivasa Perumal Vilakku (064)(TML),,Pooja & Handicrafts,,
+P0017,B03-1423 Sangu Chakra Vilakku No 1 (Swastik) (LIL),,Pooja & Handicrafts,,
+P0018,B03-158 Kuthu Vilakku No.12 (Rangoli),,Pooja & Handicrafts,,
+P0019,B03-1672 T K Varagi Amman Vilakku (B2)(KIS) Ok,,Pooja & Handicrafts,,
+P0020,"B03-1846 Six Face Vel Vilakku ""M"" (KYS)",,Pooja & Handicrafts,,
+P0021,B03-22 Om Vilakku No-2,,Pooja & Handicrafts,,
+P0022,B03-248 Kamatchi Vilakku No.20 (Gj),,Pooja & Handicrafts,,
+P0023,B03-593 Lakshmi Kuber Deep with 8 Coin (Ey),,Pooja & Handicrafts,,
+P0024,B03-651 Tk Gajlakshmi Villaku Jumbo (111) IUSY,,Pooja & Handicrafts,,
+P0025,B10-95 Brass Lota (S)(Mittal)(IC),,Pooja & Handicrafts,,
+P0026,B10-96 Brass Lota (B)(Mittal)(MM),,Pooja & Handicrafts,,
+P0027,B11-14 Kudam No.1 (Pure)(22gage) (YSS),,Pooja & Handicrafts,,
+P0028,B12-01 Poojai Mani (NAN)(150) No.8 (LLS),,Pooja & Handicrafts,,
+P0029,B12-43 Poojai Mani (NAN)(250) Pec,,Pooja & Handicrafts,,
+P0030,"B13-217 Ring Plate No.07"" (H)",,Kitchenware,,
+P0031,"B13-218 Ring Plate No.08"" (H)",,Kitchenware,,
+P0032,"B13-219 Ring Plate No.09"" (H)",,Kitchenware,,
+P0033,"B13-220 Ring Plate No.10"" (H)",,Kitchenware,,
+P0034,"B13-222 Ring Plate No.11"" (H) (UKY)",,Kitchenware,,
+P0035,"B13-231 Ring Plate No.12"" (H)",,Kitchenware,,
+P0036,"B13-304 Ring Plate No-6"" (H)",,Kitchenware,,
+P0037,B13-346 Rangoli Star Plus No 6 (Omr)(CMY),,Pooja & Handicrafts,,
+P0038,B13-97 Karpoora Thathu No.7 (Gj)(LTM),,Pooja & Handicrafts,,
+P0039,B14-130 Pushpa Bathi No 2 (Omr)(MS),,Pooja & Handicrafts,,
+P0040,B14-131 Star Bathi No 0 (Omr)(KU),,Pooja & Handicrafts,,
+P0041,B14-133 Star Bathi No 2 (Omr)(MY),,Pooja & Handicrafts,,
+P0042,B18-03 Viboothi Boat No -2,,Pooja & Handicrafts,,
+P0043,B18-107 Boat with Kinnam (Big) Omr,,Pooja & Handicrafts,,
+P0044,B18-108 Boat with Kinnam (Small) Omr,,Pooja & Handicrafts,,
+P0045,B18-121 Dhoopakal - Lid Type No-2 (Asha),,Kitchenware,,
+P0046,B18-163 Dhoopakal No-2 (L),,Pooja & Handicrafts,,
+P0047,B18-180 Kumkum Dubby (Bulging Padam) No.3 (Omr),,Pooja & Handicrafts,,
+P0048,B18-270 Dhoopakal - Lid Type No-0 (Asha)(CUY),,Kitchenware,,
+P0049,B18-295 Ledal Dhoopakal No2 (Shakthi)(LEY),,Pooja & Handicrafts,,
+P0050,B18-299 Gulab Dhoopakal No 3 (Shakthi)(LMU),,Pooja & Handicrafts,,
+P0051,B18-322 Dhoopakal with Wood Handle (B)(Kamal)(CYY),,Pooja & Handicrafts,,
+P0052,B21-24 Sheet Uruli No.7 (Rangoli) - Pec,,Kitchenware,,
+P0053,B21-27 Sheet Uruli No.10 (Rangoli) - Pec,,Kitchenware,,
+P0054,B28-1412 Palgat Arthi (2) (GJ),,Pooja & Handicrafts,,
+P0055,B28-177 Soodamani Vilakku No.1 (Goyal) LLUI,,Pooja & Handicrafts,,
+P0056,"B33-157 Vel W Stand 4"" (GJ)(IM)",,Pooja & Handicrafts,,
+P0057,Coconut Scrapper (SMALL SS),,Kitchenware,,
+P0058,Combi Pack Cooker 5ltr (105),,Kitchenware,5.0,L
+P0059,Cooker Whistle (815),,Kitchenware,,
+P0060,Deluxe Cooker 5lt (103),,Kitchenware,,
+P0061,Domestic Tandoori 14 X 20 inch,,Kitchenware,,
+P0062,Domestic Tandoori 18 X 25 inch,,Kitchenware,,
+P0063,Domestic Tandoori 20 X 25 inch,,Kitchenware,,
+P0064,Gasket 3 Ltr.,,Kitchenware,3.0,L
+P0065,Gasket 5 Ltr.,,Kitchenware,5.0,L
+P0066,Gasket 7.5 Ltr.,,Kitchenware,7.5,L
+P0067,I-Class Combo Cooker (3+2),,Kitchenware,,
+P0068,ISI Pressure Cooker 3ltr (105),,Kitchenware,3.0,L
+P0069,ISI Pressure Cooker 5ltr (105),,Kitchenware,5.0,L
+P0070,IVI - Pressing Paniyaram 7k,,Kitchenware,,
+P0071,IVI - Pressing Paniyaram 9k,,Kitchenware,,
+P0072,IVI Pressing Paniyarakuzhi 12k,,Kitchenware,,
+P0073,Idly Pannai,,Kitchenware,,
+P0074,Idly Pannai (Medium),,Kitchenware,,
+P0075,Idly Pannai (Small),,Kitchenware,,
+P0076,Induction Cooker 5ltr (107),,Kitchenware,5.0,L
+P0077,Induction Cooker 7.5ltr (107),,Kitchenware,7.5,L
+P0078,Kleen Cooker 5ltr (109),,Kitchenware,5.0,L
+P0079,Kleen Cooker 7.5ltr (111),,Kitchenware,7.5,L
+P0080,MINI IDLY NO.6 WITH DOUBLE PLATE,,Kitchenware,,
+P0081,Nexa 12 Idly (313),,Kitchenware,,
+P0082,Nexa 13 Idly (314),,Kitchenware,,
+P0083,Nexa 14 Idly (315),,Kitchenware,,
+P0084,Nexa 15 Idly (316),,Kitchenware,,
+P0085,Nexa 16 Idly (317),,Kitchenware,,
+P0086,Nexa 20 Idly (318),,Kitchenware,,
+P0087,Nexa 21 Idly (319),,Kitchenware,,
+P0088,Nexa 6 Idly (311),,Kitchenware,,
+P0089,Nexa 9 Idly (312),,Kitchenware,,
+P0090,Non Stick Achumuruku,,Kitchenware,,
+P0091,PREETHI - TRIO,PREETHI,Appliances,,
+P0092,PREETHI - ZODIAC,PREETHI,Appliances,,
+P0093,PREETHI BL SILVER,PREETHI,Appliances,,
+P0094,PREETHI CHEF PRO RETRO LAVENDER,PREETHI,Appliances,,
+P0095,PREETHI COCOSTA,PREETHI,Appliances,,
+P0096,PREETHI ECO PLUS RETRO RED,PREETHI,Appliances,,
+P0097,PREETHI ICONIC V3,PREETHI,Appliances,,
+P0098,PREETHI POPULAR RETRO BLUE,PREETHI,Appliances,,
+P0099,PREETHI POPULAR RETRO GREEN,PREETHI,Appliances,,
+P0100,PREETHI PRESSURE PAN OL SS 3 LTR,PREETHI,Kitchenware,3.0,L
+P0101,PREETHI RANGOLI-RC 320 1.8LTR,PREETHI,Appliances,1.8,L
+P0102,PREETHI RANGOLI-RC 320 1.8LTR (DP),PREETHI,Appliances,1.8,L
+P0103,PREETHI RANGOLI-RC 321 2.2 LTR,PREETHI,Appliances,2.2,L
+P0104,PREETHI RANGOLI-RC 321 2.2 LTR (DP),PREETHI,Appliances,2.2,L
+P0105,PREETHI ZODIAC 2.0 1000W,PREETHI,Appliances,,
+P0106,PREETHI ZODIAC BLACK,PREETHI,Appliances,,
+P0107,PREETHI-BL PLATINUM UPGRADE 5YRS,PREETHI,Appliances,,
+P0108,PREETHI-BLUE LEAF GOLD 5 YEARS,PREETHI,Appliances,,
+P0109,PREETHI-CROWN PLUS,PREETHI,Appliances,,
+P0110,PREETHI-CROWN PRO,PREETHI,Appliances,,
+P0111,PREETHI-ECO CHEF NEO,PREETHI,Appliances,,
+P0112,PREETHI-ECO FRESH (BLUE),PREETHI,Appliances,,
+P0113,PREETHI-ECO FRESH (YELLOW),PREETHI,Appliances,,
+P0114,PREETHI-ECO PLUS 5 YEARS,PREETHI,Appliances,,
+P0115,PREETHI-GALAXY,PREETHI,Appliances,,
+P0116,PREETHI-GALAXY PLUS,PREETHI,Appliances,,
+P0117,PREETHI-LAVENDER GRIND 5 YEARS,PREETHI,Appliances,,
+P0118,PREETHI-PEPPY,PREETHI,Appliances,,
+P0119,PREETHI-PEPPY PLUS 750W,PREETHI,Appliances,,
+P0120,PREETHI-POWER GRIND 5YEARS ROHS,PREETHI,Appliances,,
+P0121,PREETHI-STEELE SUPREME 5 YEARS,PREETHI,Appliances,,
+P0122,PREETHI-TAURUS PLUS 1000 W,PREETHI,Appliances,,
+P0123,PREETHI-TAURUS PRO (BLUE VARIANT) 1000 W,PREETHI,Appliances,,
+P0124,PREETHI-XPRO DUO,PREETHI,Appliances,,
+P0125,PREETHI-ZODIAC COSMO,PREETHI,Appliances,,
+P0126,PREMIER 18E AUTO ELECTRIC COOKER WITH WARMER 1.8LTR BLUE,PREMIER,Appliances,1.8,L
+P0127,PREMIER 18E AUTO ELECTRIC COOKER WITH WARMER 1.8LTR MAROON,PREMIER,Appliances,1.8,L
+P0128,PREMIER 18E(EP) AUTO ELECTRIC COOKER WITH WARMER 1.8LTR MAROON,PREMIER,Appliances,1.8,L
+P0129,PREMIER 22E AUTO ELECTRIC COOKER WITH WARMER 2.2LTR MAROON,PREMIER,Appliances,2.2,L
+P0130,PREMIER 22E(EP) AUTO ELECTRIC COOKER WITH WARMER 2.2LTR MASTARD GREEN,PREMIER,Appliances,2.2,L
+P0131,PREMIER 3TG LIFE STYLE GRINDER-PINK 2 LTR PG-502,PREMIER,Appliances,2.0,L
+P0132,PREMIER 3TG LIFE STYLE GRINDER-RED 2 LTR PG-502,PREMIER,Appliances,2.0,L
+P0133,PREMIER 3TG LIFE STYLE GRINDER-RED 2 LTR PG-502 (h)),PREMIER,Appliances,2.0,L
+P0134,PREMIER AL KADAI 36 CM [3.5MM],PREMIER,Kitchenware,36.0,CM
+P0135,PREMIER AL KADAI 40CM [3.5 MM],PREMIER,Kitchenware,40.0,CM
+P0136,PREMIER AMIGA DARK BLUE MG 230V/750W MG5141,PREMIER,Appliances,,
+P0137,PREMIER AMIGA DX MG 230V/750W BURGANDY MG5149,PREMIER,Appliances,,
+P0138,PREMIER AMIGA DX MIXER GRINDER 230V/750W BLACK GREEN MG5158,PREMIER,Appliances,,
+P0139,PREMIER AMIGA MIXER GRINDER 230V/750W BLACK GREEN MG5157,PREMIER,Appliances,,
+P0140,PREMIER AMIGA MIXER GRINDER 230V/750W BLACK ORANGE MG5156,PREMIER,Appliances,,
+P0141,PREMIER AMIGA MIXER GRINDER 230V/750W DARK BLUE MG5141,PREMIER,Appliances,,
+P0142,PREMIER AMIGA MIXIER GRINDER 230V/750W BURGANDY MG5142,PREMIER,Appliances,,
+P0143,PREMIER ASTRAL NON STICK PANIYARA PAN ROUND WITH GLASS LID (12K),PREMIER,Kitchenware,,
+P0144,PREMIER ASTRAL NON STICK PANIYARA PAN SQUARE WITH GLASS LID (9K),PREMIER,Kitchenware,,
+P0145,PREMIER AUTO ERC 1.0 LTR 10 E,PREMIER,Appliances,1.0,L
+P0146,PREMIER AUTO ERC 1.0 LTR 10 E MAROON,PREMIER,Appliances,1.0,L
+P0147,PREMIER CARINA MIXER GRINDER 230V/500W LIGHT GREEN MG5134,PREMIER,Appliances,,
+P0148,PREMIER CARINA MIXER GRINDER 230V/500W PINK MG5133,PREMIER,Appliances,,
+P0149,PREMIER CUCINA HARD ANODIZED PRESSURE COOKER 1.5LTR,PREMIER,Kitchenware,1.5,L
+P0150,PREMIER CUCINA TB IB PC 3 LTR,PREMIER,Kitchenware,3.0,L
+P0151,PREMIER CUCINA TB IB PC 5 LTR,PREMIER,Kitchenware,5.0,L
+P0152,PREMIER CUCINA TB IB PC 7.5 LTR,PREMIER,Kitchenware,7.5,L
+P0153,PREMIER CUTE MIXI 230V/550W KM 512,PREMIER,Appliances,,
+P0154,PREMIER CUTE WET GRINDER 230V 2LTR PG-510,PREMIER,Appliances,2.0,L
+P0155,PREMIER EASY GRIND + WET GRINDER 230V 2LTR (PINK) PG-513,PREMIER,Appliances,2.0,L
+P0156,PREMIER ELE INSTANT ROTI MAKER PRM 01,PREMIER,Appliances,,
+P0157,PREMIER ELENORA DX MIXER GRINDER 230V/550W MG5154,PREMIER,Appliances,,
+P0158,PREMIER FUCHSIA BURGANDY MG 230V/650W MG5136,PREMIER,Appliances,,
+P0159,PREMIER FUCHSIA PEACOCK GREEN MG 230V/650W MG5135,PREMIER,Appliances,,
+P0160,PREMIER GRANITE NS COOKWARE IB 4PCS PURPLE HG-546,PREMIER,Kitchenware,,
+P0161,PREMIER HANDI STAINLESS STEEL PRESSURE COOKER WITH GLASS LID 3LTR,PREMIER,Kitchenware,3.0,L
+P0162,PREMIER HANDI STAINLESS STEEL PRESSURE COOKER WITH GLASS LID 5LTR,PREMIER,Kitchenware,5.0,L
+P0163,PREMIER INDUCTION BOTTOM NON STICK PANIYARA PAN SMALL,PREMIER,Kitchenware,,
+P0164,PREMIER INNER LID STAINLESS STEEL PRESSURE COOKER 3LTR,PREMIER,Kitchenware,3.0,L
+P0165,PREMIER INNER LID STAINLESS STEEL PRESSURE COOKER 5LTR,PREMIER,Kitchenware,5.0,L
+P0166,PREMIER INSTA NUTRI BLENDER 400W WITH 2 JAR GREEN NB7644,PREMIER,Appliances,,
+P0167,PREMIER INSTA NUTRI BLENDER 400W WITH 2 JAR GREY NB7645,PREMIER,Appliances,,
+P0168,PREMIER INSTA NUTRI BLENDER 400W WITH 2 JAR RED NB7643,PREMIER,Appliances,,
+P0169,PREMIER INSTANT ROTI MAKER PRM 01,PREMIER,Appliances,,
+P0170,PREMIER LIFE STYLE TILTING WET GRINDER 230V 2LTR (PINK) PG-502,PREMIER,Appliances,2.0,L
+P0171,PREMIER LIFE STYLE TILTING WET GRINDER 230V 2LTR (RED) PG-502,PREMIER,Appliances,2.0,L
+P0172,PREMIER NS 5PCS COOKWARE SET HG518,PREMIER,Kitchenware,,
+P0173,PREMIER NS APPAM PAN 22CM SUPREME,PREMIER,Kitchenware,22.0,CM
+P0174,PREMIER NS APPAM PAN 22CM SUPREME (h)),PREMIER,Kitchenware,22.0,CM
+P0175,PREMIER NS CHINESE WOK 300MM,PREMIER,Appliances,300.0,MM
+P0176,PREMIER NS CHINESE WOK 360MM,PREMIER,Appliances,360.0,MM
+P0177,PREMIER NS IB 4PCS HG-549,PREMIER,Kitchenware,,
+P0178,PREMIER PINKY MIXI 230V/550W KM-528,PREMIER,Appliances,,
+P0179,PREMIER POPULAR NON STICK APPAMPAN WITH SS LID 22CM,PREMIER,Kitchenware,22.0,CM
+P0180,PREMIER SUPREME NON STICK APPAMPAN WITH SS LID 22CM,PREMIER,Kitchenware,22.0,CM
+P0181,PREMIER SUPREME NON STICK PANIYARA PAN LARGE (12 KULI),PREMIER,Kitchenware,,
+P0182,PREMIER SUPREME NON STICK PANIYARA PAN SMALL (7 KULI),PREMIER,Kitchenware,,
+P0183,PREMIER TRENDY BLACK HARD ANODIZED TADKAPAN LARGE,PREMIER,Kitchenware,,
+P0184,PREMIER TRENDY BLACK HARD ANODIZED TADKAPAN SMALL,PREMIER,Kitchenware,,
+P0185,PREMIER VIOLA MIXI WITH JUICER 230V/750W KM-530,PREMIER,Appliances,,
+P0186,PREMIER WONDER GRINDER 1.5LTR 230V PG-503,PREMIER,Appliances,1.5,L
+P0187,PREMIER WONDER GRINDER 1.5LTR 230V PG-503 (h)),PREMIER,Appliances,1.5,L
+P0188,PREMIER WONDER WET GRINDER 230V 1.5LTR PG-503,PREMIER,Appliances,1.5,L
+P0189,PREMIER XPRESS DIAMOND S3 MIXIE 230V/750W KM-524,PREMIER,Appliances,,
+P0190,PREMIER ZESTA DX MIXER GRINDER 230V/750W BLACK MG5175,PREMIER,Appliances,,
+P0191,PREMIER ZESTA DX MIXIER GRINDER 230V/750W AQUA BLUE MG5152,PREMIER,Appliances,,
+P0192,PRESSURE COOKER OL ALU 5 LTR IB (SSS),,Kitchenware,5.0,L
+P0193,PRESSURE COOKER OL SS304 3 LTR IB (SSS),,Kitchenware,3.0,L
+P0194,PRESSURE COOKER OL SS304 5 LTR IB (SSS),,Kitchenware,5.0,L
+P0195,RAJ MATHA IND PRESSURE PAN JUNIOR [3.5 LTR],RAJ MATHA,Kitchenware,3.5,L
+P0196,RAJ MATHA IND PRESSURE PAN SENIOR [6.5 LTR],RAJ MATHA,Kitchenware,6.5,L
+P0197,RAJ MATHA IND PRESSURE PAN JUNIOR 3.5 LTR,RAJ MATHA,Kitchenware,3.5,L
+P0198,RAJ MATHA IND PRESSURE PAN JUNIOR 6.5 LTR,RAJ MATHA,Kitchenware,6.5,L
+P0199,RAJ MATHA IND.COOKER 3 LTR.,RAJ MATHA,Kitchenware,3.0,L
+P0200,RAJ MATHA IND.COOKER 5 LTR.,RAJ MATHA,Kitchenware,5.0,L
+P0201,RAJ MATHA IND.COOKER 7.5 LTR.,RAJ MATHA,Kitchenware,7.5,L
+P0202,Raj Matha Cooker 3 Ltr,RAJ MATHA,Kitchenware,3.0,L
+P0203,Raj Matha Cooker 5 Ltr,RAJ MATHA,Kitchenware,5.0,L
+P0204,Raj Matha Induction Cooker 3 Ltr,RAJ MATHA,Kitchenware,3.0,L
+P0205,Raj Matha Induction Cooker 5 Ltr,RAJ MATHA,Kitchenware,5.0,L
+P0206,Raj Matha Induction Cooker 7.5 Ltr,RAJ MATHA,Kitchenware,7.5,L
+P0207,Round Tandoori 30 X 36 inch,,Kitchenware,,
+P0208,S.S Regular Pressure Cooker 5lt (101),,Kitchenware,,
+P0217,Safety Valve (817),,Kitchenware,,
+P0222,Sowbaghya 1.25 Ltr Sakthi Wetgrinder,SOWBAGHYA,Kitchenware,1.25,L
+P0223,Sowbaghya 1.25 Ltr Sakthi Wetgrinder DTP3100,SOWBAGHYA,Kitchenware,1.25,L
+P0212,SS PLATE - 50 SET,,Kitchenware,,
+P0224,Sowbaghya 15pcs Dinnerset,SOWBAGHYA,Kitchenware,,
+P0229,Sowbaghya 26Pcs Dinnerset,SOWBAGHYA,Kitchenware,,
+P0250,Sowbaghya Hotpot 1500ml SS Casserole,SOWBAGHYA,Kitchenware,1500.0,ML
+P0251,Sowbaghya Hotpot 2500ml SS Casserole,SOWBAGHYA,Kitchenware,2500.0,ML
+P0252,Sowbaghya Hotpot 3500ml SS Casserole,SOWBAGHYA,Kitchenware,3500.0,ML
+P0218,SmartFingers Comfort Plus Mini Table Top Wet Grinder 230V 50hz 1.25 Liter,,Appliances,,
+P0219,SmartFingers Comfort Plus Table Top Magic Wet Grinder 230V 50hz 2 Liter White 2 Stone,,Appliances,,
+P0220,SmartFingers Masala Plus Table Top Masala Wet Grinder 230V 50hz 2 Liter Blue,,Appliances,,
+P0221,Sowbaghya 1.2 Ltr Annam Electric Rice Cooker,SOWBAGHYA,Appliances,1.2,L
+P0253,Sowbaghya Hotpot 5000ml SS Casserole,SOWBAGHYA,Kitchenware,5000.0,ML
+P0254,Sowbaghya Idiyappam Maker,SOWBAGHYA,Kitchenware,,
+P0261,Sowbaghya Non Stick Deep Appakadai,SOWBAGHYA,Kitchenware,,
+P0225,Sowbaghya 2 Litres Saanvi Tilting Wet Grinder,SOWBAGHYA,Appliances,,
+P0226,Sowbaghya 2 Ltr Shree 220V Grinder,SOWBAGHYA,Appliances,2.0,L
+P0227,Sowbaghya 2 Ltr Shree 220V Grinder Maroon,SOWBAGHYA,Appliances,2.0,L
+P0228,Sowbaghya 2.8 Ltr Annam Plus Electric Rice Cooker,SOWBAGHYA,Appliances,2.8,L
+P0259,Sowbaghya NS Elite Deep Appakadai NS22,SOWBAGHYA,Kitchenware,,
+P0230,Sowbaghya 2Ltr KAYA Wet Grinder (Blue),SOWBAGHYA,Appliances,2.0,L
+P0231,Sowbaghya 2Ltr KAYA Wet Grinder (Grey),SOWBAGHYA,Appliances,2.0,L
+P0232,Sowbaghya 2Ltr REGAL Wet Grinder (Blue),SOWBAGHYA,Appliances,2.0,L
+P0233,Sowbaghya 2Ltr REGAL Wet Grinder (Blue) DTP2022,SOWBAGHYA,Appliances,2.0,L
+P0234,Sowbaghya 2Ltr Varna Wet Grinder (Majestic Maroon),SOWBAGHYA,Appliances,2.0,L
+P0235,Sowbaghya 2ltr Ruby Wet Grinder,SOWBAGHYA,Appliances,2.0,L
+P0236,Sowbaghya 2ltr Ruby Wet Grinder DTP4300,SOWBAGHYA,Appliances,2.0,L
+P0237,Sowbaghya 3 Litres Elite IB Pressure Cooker & Pan,SOWBAGHYA,Kitchenware,,
+P0238,Sowbaghya 3Ltr Elite Alu Pressure Cooker & Pan EPP03,SOWBAGHYA,Kitchenware,3.0,L
+P0239,Sowbaghya 3Ltr JUMBO Wet Grinder (Blue),SOWBAGHYA,Appliances,3.0,L
+P0240,Sowbaghya 3Ltr JUMBO Wet Grinder (Grey),SOWBAGHYA,Appliances,3.0,L
+P0241,Sowbaghya 5LTR Elite IB Pressure Cooker & Pan,SOWBAGHYA,Kitchenware,5.0,L
+P0242,Sowbaghya 5Ltr Elite IB Pressure Cooker & Pan EPP05,SOWBAGHYA,Kitchenware,5.0,L
+P0243,Sowbaghya 5ltr Aluminium Pressure Cooker,SOWBAGHYA,Kitchenware,5.0,L
+P0244,Sowbaghya 5ltr Aluminium Pressure Cooker Alu05,SOWBAGHYA,Kitchenware,5.0,L
+P0245,Sowbaghya Annamplus 1.8ltr Electric Ricecooker,SOWBAGHYA,Appliances,1.8,L
+P0246,Sowbaghya Dazzle 2 Ltr Wet Grinder - Yellow,SOWBAGHYA,Appliances,2.0,L
+P0247,Sowbaghya Dazzle 2ltr Wet Grinder - Grey,SOWBAGHYA,Appliances,2.0,L
+P0248,Sowbaghya Elite 5ltr Induction Base Pressure Cooker,SOWBAGHYA,Kitchenware,5.0,L
+P0249,Sowbaghya Elite 7.5ltr Aluminium Pressure Cooker,SOWBAGHYA,Kitchenware,7.5,L
+P0263,Sowbaghya Roti Maker,SOWBAGHYA,Kitchenware,,
+P0266,Sowbaghya SS Chapati Dabba - ISS23,SOWBAGHYA,Kitchenware,,
+P0267,Sowbaghya SS Duosteel Flask 500ML SSF08,SOWBAGHYA,Kitchenware,500.0,ML
+P0273,Sowbaghya Stainless Steel Induction Base Frypan,SOWBAGHYA,Kitchenware,,
+P0276,Sowbaghya Ultima Puttu Maker,SOWBAGHYA,Kitchenware,,
+P0255,Sowbaghya Magic 750w Mixer Grinder,SOWBAGHYA,Appliances,,
+P0256,Sowbaghya Masala Spice Box - 17cm - MSP010,SOWBAGHYA,Kitchenware,17.0,CM
+P0257,Sowbaghya Masala Spice Box - 20.5cm - MSP012,SOWBAGHYA,Kitchenware,20.5,CM
+P0258,Sowbaghya Masala Spice Box Elite 22.5cm - MSPE010,SOWBAGHYA,Kitchenware,22.5,CM
+P0277,Sowbaghya Ultima SS 4pcs Dabara Set,SOWBAGHYA,Kitchenware,,
+P0260,Sowbaghya NS Uttapam Tawa 4 Pits,SOWBAGHYA,Kitchenware,,
+P0209,SPARES GASKET 10 LTR.,,Kitchenware,10.0,L
+P0262,Sowbaghya Non-Stick Multi Kadai,SOWBAGHYA,Kitchenware,,
+P0210,SPARES GASKET 3 LTR.,,Kitchenware,3.0,L
+P0264,Sowbaghya SS 3 Tier Steamer with Lid,SOWBAGHYA,Kitchenware,,
+P0265,Sowbaghya SS 3 Tier Steamer with Lid ISS27,SOWBAGHYA,Kitchenware,,
+P0211,SPARES GASKET 5 LTR.,,Kitchenware,5.0,L
+P0213,SS Round Tandoori 24 X 30 inch,,Kitchenware,,
+P0268,Sowbaghya SS Fry Pan - Mini ISS20,SOWBAGHYA,Kitchenware,,
+P0269,Sowbaghya SS Tea/Coffee Cup 100ML - ISS28,SOWBAGHYA,Beverages,100.0,ML
+P0270,Sowbaghya SS Tea/Coffee Cup 150ML - ISS29,SOWBAGHYA,Beverages,150.0,ML
+P0271,Sowbaghya SS Tea/Coffee Cup 250ML - ISS31,SOWBAGHYA,Beverages,250.0,ML
+P0272,Sowbaghya Stainless Steel Coffee Filter,SOWBAGHYA,Beverages,,
+P0214,SS Tandoori 24 X 24 Square,,Kitchenware,,
+P0274,Sowbaghya Twister Bullet Mixer 450W - Black BM01B,SOWBAGHYA,Appliances,,
+P0275,Sowbaghya Twister Bullet Mixer 450W - Blue BM01W,SOWBAGHYA,Appliances,,
+P0215,SS Tandoori 30 X 30 Square,,Kitchenware,,
+P0216,SS Tandoori 36 X 36 Square,,Kitchenware,,
+P0278,Sowbaghya Xtra Large Dosa Tawa,SOWBAGHYA,Kitchenware,,
+P0279,Spice Grinding Machine-4KW (SGM005),,Grocery,,
+P0280,Stylish Cooker 5ltr (104),,Kitchenware,5.0,L
+P0281,TRI DIE CAST PANIYARAKUZHI 12 K W/L,,Kitchenware,,
+P0282,TRI DIE CAST PANIYARAKUZHI 12K W/LID,,Kitchenware,,
+P0283,TRI PANIYARA KUZHI 07 K,,Kitchenware,,
+P0284,TRI PANIYARA KUZHI 09 K,,Kitchenware,,
+P0285,TRI PANIYARA KUZHI 12 K,,Kitchenware,,
+P0286,TRIPLE LEAF INDUCTION COMBO 05 LTR.,,Kitchenware,5.0,L
+P0287,TRIPLE LEAF INDUCTION COMBO 5 LTR,,Kitchenware,5.0,L
+P0288,TRIPLE LEAF INDUCTION COMBO 8.5 LTR,,Kitchenware,8.5,L
+P0289,TRIPLE LEAF INDUCTION COMBO 8.5 LTR.,,Kitchenware,8.5,L
+P0290,Trishul Paniyaram 12k,,Kitchenware,,
+P0291,Trishul Paniyaram 7k,,Kitchenware,,
+P0292,Trishul Paniyaram 9k,,Kitchenware,,
+P0293,V COOK COOKER 03 LTR.,,Kitchenware,3.0,L
+P0294,V COOK COOKER 05 LTR.,,Kitchenware,5.0,L
+P0295,V COOK IND COOKER 03 LTR,,Kitchenware,3.0,L
+P0296,V COOK IND COOKER 05 LTR.,,Kitchenware,5.0,L
+P0297,V COOK IND COOKER 3 LTR,,Kitchenware,3.0,L
+P0298,V COOK IND COOKER 5 LTR,,Kitchenware,5.0,L
+P0299,V Cook Cooker 5 Ltr,,Kitchenware,5.0,L
+P0300,V Cook Cooker 7.5 Ltr,,Kitchenware,7.5,L
+P0301,V SMART IND COOKER 3 LTR,V SMART,Kitchenware,3.0,L
+P0302,V SMART IND COOKER 5 LTR,V SMART,Kitchenware,5.0,L
+P0303,V SMART IND COOKER 7.5 LTR,V SMART,Kitchenware,7.5,L
+P0304,V SMART IND PRESSURE PAN JUNIOR [3.5 LTR],V SMART,Kitchenware,3.5,L
+P0305,V SMART IND PRESSURE PAN SENIOR [6.5 LTR],V SMART,Kitchenware,6.5,L
+P0306,V SMART IND TAWA [3.40 MM] 300 MM,V SMART,Kitchenware,3.4,MM
+P0307,V SMART IND.COOKER 2 LTR.,V SMART,Kitchenware,2.0,L
+P0308,V SMART IND.COOKER 3 LTR.,V SMART,Kitchenware,3.0,L
+P0309,V SMART IND.COOKER 5 LTR.,V SMART,Kitchenware,5.0,L
+P0310,V SMART IND.COOKER 7.5 LTR.,V SMART,Kitchenware,7.5,L
+P0311,V SMART MIXI 4 JAR 750W [HYBRID],V SMART,Appliances,,
+P0312,V SMART MIXIE 4 JAR 750 W [COPPER],V SMART,Appliances,,
+P0313,V TRIX COOKER 03 LTR,,Kitchenware,3.0,L
+P0314,V TRIX COOKER 05 LTR,,Kitchenware,5.0,L
+P0315,V-Trix Cooker 3 Ltr,,Kitchenware,3.0,L
+P0316,V-Trix Cooker 5 Ltr,,Kitchenware,5.0,L
+P0317,V.Cook Cooker 10 Ltr,,Kitchenware,10.0,L
+P0318,VIS ALLOY KADAI [3-12],VIS,Kitchenware,,
+P0319,VIS ALLOY TAWA,VIS,Kitchenware,,
+P0320,VIS ANODIZED HANDY,VIS,Kitchenware,,
+P0321,VIS ANODIZED HUNDY 18 WITH LID - 20 PCS,VIS,Kitchenware,,
+P0322,VIS ANODIZED HUNDY 20 WITH LID - 10 PCS,VIS,Kitchenware,,
+P0323,VIS ANODIZED IDLY POT-6,VIS,Kitchenware,,
+P0324,VIS ANODIZED KADAI,VIS,Kitchenware,,
+P0325,VIS ANODIZED KADAI 7 TO 18 - 6 SET,VIS,Kitchenware,,
+P0326,VIS ANODIZED URULI,VIS,Kitchenware,,
+P0327,VIS ANODIZED URULI WITH LID 1-6 - 6 SET,VIS,Kitchenware,,
+P0328,VIS BRASS SEV SANCHA [RING] 500 GM,VIS,Kitchenware,500.0,G
+P0329,VIS D/C APPACHATTY 4 MM W/L,VIS,Kitchenware,4.0,MM
+P0330,VIS D/C INDUCTION PANIYARAM 50 MM 7 PITS,VIS,Kitchenware,50.0,MM
+P0331,VIS D/C INDUCTION PANIYARAM 50MM 7 PITS,VIS,Kitchenware,50.0,MM
+P0332,VIS D/C INDUCTION PANIYARAM 50MM 9 PITS,VIS,Kitchenware,50.0,MM
+P0333,VIS D/C N/S MINI TOASTER,VIS,Appliances,,
+P0334,VIS D/C PANIYARAM 50MM 9 PITS[W/L],VIS,Kitchenware,50.0,MM
+P0335,VIS D/C PANIYARAM 60MM 7 PITS W/L,VIS,Kitchenware,60.0,MM
+P0336,VIS D/C PANIYARAM 60MM 7 PITS[W/L],VIS,Kitchenware,60.0,MM
+P0337,VIS D/C PANIYARAM 60MM 9 PITS W/L,VIS,Kitchenware,60.0,MM
+P0338,VIS D/C SUNNY PANIYARAM 50 MM 07 PITS,VIS,Kitchenware,50.0,MM
+P0339,VIS D/C SUNNY PANIYARAM 50 MM 09 PITS,VIS,Kitchenware,50.0,MM
+P0340,VIS D/C SUNNY PANIYARAM 50 MM 12 PITS,VIS,Kitchenware,50.0,MM
+P0341,VIS D/C SUNNY PANIYARAM 50 MM 7 PITS,VIS,Kitchenware,50.0,MM
+P0342,VIS D/C SUNNY PANIYARAM 50 MM 9 PITS,VIS,Kitchenware,50.0,MM
+P0343,VIS ECO PLUS COPPER MIXI 3 JAR [550 W],VIS,Appliances,,
+P0344,VIS ECO PLUS COPPER MIXIE 3 JAR [550 W],VIS,Appliances,,
+P0345,VIS ECO PLUS HYBRID MIXI 3 JAR [550 W],VIS,Appliances,,
+P0346,VIS ECO PLUS HYBRID MIXIE 3 JAR [550 W],VIS,Appliances,,
+P0443,Vis Elite Milk Boiler 1 Ltr,VIS,Appliances,1.0,L
+P0444,Vis Elite Milk Boiler 1.5 Ltr,VIS,Appliances,1.5,L
+P0445,Vis Elite Milk Boiler 2 Ltr,VIS,Appliances,2.0,L
+P0349,VIS ELITE PUTTUKUDAM [3 LEAF],VIS,Kitchenware,,
+P0351,VIS EMERY TAWA,VIS,Kitchenware,,
+P0352,VIS EMERY TAWA 11 INCH [750 GRM],VIS,Kitchenware,,
+P0353,VIS EMERY TAWA 12 INCH [850 GRM],VIS,Kitchenware,,
+P0350,VIS ELITE PUTTUKUDAM [5 LEAF],VIS,Kitchenware,,
+P0355,VIS I CLASS COOKER 03 LTR.,VIS,Kitchenware,3.0,L
+P0356,VIS I CLASS COOKER 05 LTR.,VIS,Kitchenware,5.0,L
+P0357,VIS I CLASS GRAVY POT 3 LTR.,VIS,Kitchenware,3.0,L
+P0358,VIS I CLASS GRAVY POT 4 LTR.,VIS,Kitchenware,4.0,L
+P0359,VIS I CLASS INDUCTION KADAI 250,VIS,Kitchenware,,
+P0360,VIS I CLASS INDUCTION KADAI 275,VIS,Kitchenware,,
+P0361,VIS I CLASS INDUCTION PAPER ROAST TAWA 315 / 4 MM,VIS,Kitchenware,4.0,MM
+P0362,VIS I CLASS KAL DOSAI TAWA 295/5 MM,VIS,Kitchenware,5.0,MM
+P0363,VIS I CLASS KAL DOSAI TAWA 315/5 MM,VIS,Kitchenware,5.0,MM
+P0347,VIS ELITE PUTTUKUDAM BIG,VIS,Kitchenware,,
+P0446,Vis Elite Puttukudam Big,VIS,Kitchenware,,
+P0348,VIS ELITE PUTTUKUDAM SMALL,VIS,Kitchenware,,
+P0367,VIS I CLASS ROTTI TAWA 310 / 4 MM,VIS,Kitchenware,4.0,MM
+P0368,VIS I CLASS ROTTI TAWA 310/4 MM,VIS,Kitchenware,4.0,MM
+P0369,VIS IDLY KUZHI PANIYARAM 9 PITS,VIS,Kitchenware,,
+P0370,VIS IDLY PANIYARAM 7 PITS,VIS,Kitchenware,,
+P0371,VIS INDUCTION KADAI 235 MM [W/L],VIS,Kitchenware,235.0,MM
+P0372,VIS INDUCTION POLISH KADAI - 6 SET,VIS,Kitchenware,,
+P0373,VIS INDUCTION TAWA 285 MM / 3.4 MM,VIS,Kitchenware,285.0,MM
+P0374,VIS IRON TAWA 11 INCH [2.200],VIS,Kitchenware,,
+P0375,VIS IRON TAWA 12 INCH [2.300],VIS,Kitchenware,,
+P0376,VIS KUZHI APPACHATTY,VIS,Kitchenware,,
+P0447,Vis Elite Puttukudam Small,VIS,Kitchenware,,
+P0354,VIS I CLASS COMBO 5 LTR,VIS,Kitchenware,5.0,L
+P0379,VIS NON STICK ACHU MURUKKU [FLOWER],VIS,Kitchenware,,
+P0380,VIS NON STICK ACHU MURUKKU [ROUND],VIS,Kitchenware,,
+P0381,VIS POLISH INDUCTION KADAI,VIS,Kitchenware,,
+P0364,VIS I CLASS MIXI 3 JAR [750 W],VIS,Appliances,,
+P0365,VIS I CLASS MIXI 4 JAR [750 W],VIS,Appliances,,
+P0366,VIS I CLASS MIXI 4 JAR [750] COPPER,VIS,Appliances,,
+P0466,Vis Mixi Eco+ 550 W Copper,VIS,Appliances,,
+P0377,VIS MURUKACHI 5 NO.,VIS,Kitchenware,,
+P0378,VIS MURUKACHI 6 NO.,VIS,Kitchenware,,
+P0467,Vis Muruku Achu No.5,VIS,Kitchenware,,
+P0468,Vis Muruku Achu No.6,VIS,Kitchenware,,
+P0469,Vis Non Stick Sausepan 1.5 Ltr/3mm,VIS,Kitchenware,1.5,L
+P0382,VIS POORI PRESS 4 NO,VIS,Kitchenware,,
+P0392,VIS PRO DELUXE APPACHATTY,VIS,Kitchenware,,
+P0393,VIS PRO DIE CAST 7 K IDLY PANIYARAM,VIS,Kitchenware,,
+P0394,VIS PRO DIE CAST 9 K IDLY PANIYARAM,VIS,Kitchenware,,
+P0395,VIS PRO FH TAWA 300/5 MM,VIS,Kitchenware,5.0,MM
+P0396,VIS PRO INDUCTION TAWA 285 /4.00 MM,VIS,Kitchenware,4.0,MM
+P0397,VIS PRO INDUCTION TAWA 285 /5.00 MM,VIS,Kitchenware,5.0,MM
+P0398,VIS PRO INDUCTION TAWA 285 MM 4.0 MM,VIS,Kitchenware,285.0,MM
+P0399,VIS PRO INDUCTION TAWA 285/5.00 MM,VIS,Kitchenware,5.0,MM
+P0400,VIS PRO INDUCTION TAWA 300 /5.00 MM,VIS,Kitchenware,5.0,MM
+P0401,VIS PRO INDUCTION TAWA 300/5.00 MM,VIS,Kitchenware,5.0,MM
+P0383,VIS POORI PRESS 5 NO,VIS,Kitchenware,,
+P0384,VIS POORI PRESS 6 NO,VIS,Kitchenware,,
+P0385,VIS POORI PRESS 7 NO,VIS,Kitchenware,,
+P0405,VIS PRO SUNNY APPACHATTY,VIS,Kitchenware,,
+P0406,VIS PRO SUNNY DEEP APPACHATTY,VIS,Kitchenware,,
+P0407,VIS PRO SUNNY MEGA APPACHATTY,VIS,Kitchenware,,
+P0386,VIS POORI PRESS 8 NO,VIS,Kitchenware,,
+P0387,VIS POORI PRESS SS 4 NO.,VIS,Kitchenware,,
+P0388,VIS POORI PRESS SS 5 NO.,VIS,Kitchenware,,
+P0389,VIS POORI PRESS SS 6 NO.,VIS,Kitchenware,,
+P0390,VIS POORI PRESS SS 7 NO.,VIS,Kitchenware,,
+P0391,VIS POORI PRESS SS 8 NO.,VIS,Kitchenware,,
+P0471,Vis Poori Press SS No.5,VIS,Kitchenware,,
+P0472,Vis Poori Press SS No.6,VIS,Kitchenware,,
+P0473,Vis Poori Press SS No.7,VIS,Kitchenware,,
+P0474,Vis Poori Press SS No.8,VIS,Kitchenware,,
+P0418,VIS SS SEV SANCHA DAB [700 GM],VIS,Kitchenware,700.0,G
+P0402,VIS PRO PANIYARAKUZHI 07K,VIS,Kitchenware,,
+P0403,VIS PRO PANIYARAKUZHI 09K,VIS,Kitchenware,,
+P0404,VIS PRO PANIYARAKUZHI 12K,VIS,Kitchenware,,
+P0476,Vis Pro Paniyarakuzhi 12k Red,VIS,Kitchenware,,
+P0477,Vis Pro Paniyarakuzhi 7k Red,VIS,Kitchenware,,
+P0478,Vis Pro Paniyarakuzhi 9k Red,VIS,Kitchenware,,
+P0408,VIS SS COCONUT SCRAPPER,VIS,Kitchenware,,
+P0409,VIS SS IDI URAL 0,VIS,Kitchenware,,
+P0410,VIS SS IDI URAL 1,VIS,Kitchenware,,
+P0428,VIS VISTA MIXIE 3 JAR 750 WATS,VIS,Appliances,,
+P0411,VIS SS IDI URAL 2,VIS,Kitchenware,,
+P0430,"VIS WHITE TEA KETTLE 1,2,3 NO. - 10 SET",VIS,Appliances,,
+P0431,VIS WHITE TEA KETTLE WIRE [0 NO.],VIS,Appliances,,
+P0432,VIS WHITE TEA KETTLE [2 TO 6],VIS,Appliances,,
+P0433,VIS WHITE TEA MUG,VIS,Beverages,,
+P0412,VIS SS IDI URAL 3,VIS,Kitchenware,,
+P0413,VIS SS IDI URAL 4,VIS,Kitchenware,,
+P0436,VPC IC-09 I-Class Combo Cooker (5+3.5 Ltr),,Kitchenware,3.5,L
+P0437,Vis Alloy Kadai,VIS,Kitchenware,,
+P0438,Vis D/c Appachatty 4mm,VIS,Kitchenware,4.0,MM
+P0439,Vis D/c Induction Paniyaram 7k/50mm,VIS,Kitchenware,50.0,MM
+P0440,Vis D/c Paniyaram 7k/60mm with Lid,VIS,Kitchenware,60.0,MM
+P0441,Vis D/c Paniyaram 9k/50mm with Lid,VIS,Kitchenware,50.0,MM
+P0442,Vis Deluxe Appachatty with Lid,VIS,Kitchenware,,
+P0414,VIS SS IDI URAL 5,VIS,Kitchenware,,
+P0415,VIS SS IDI URAL 6,VIS,Kitchenware,,
+P0416,VIS SS IDI URAL 7,VIS,Kitchenware,,
+P0417,VIS SS KITCHEN PRESS,VIS,Kitchenware,,
+P0419,VIS SS SMART SEVANAZHI,VIS,Kitchenware,,
+P0448,Vis FH Tawa 285mm/3.4mm,VIS,Kitchenware,285.0,MM
+P0449,Vis FH Tawa 300mm/3.4mm,VIS,Kitchenware,300.0,MM
+P0450,Vis I Class Cooker 10 Lit,VIS,Kitchenware,10.0,L
+P0451,Vis I Class Cooker 12 Lit,VIS,Kitchenware,12.0,L
+P0452,Vis I Class Cooker 3 Ltr,VIS,Kitchenware,3.0,L
+P0453,Vis I Class Cooker 5 Ltr,VIS,Kitchenware,5.0,L
+P0454,Vis I Class Gravy Pot 5.5 Ltr,VIS,Kitchenware,5.5,L
+P0455,Vis I Class Gravy Pot 7.5 Ltr,VIS,Kitchenware,7.5,L
+P0456,Vis I Class Induction Gravy Pot 3 Ltr,VIS,Kitchenware,3.0,L
+P0457,Vis I Class Induction Kadai 230mm,VIS,Kitchenware,230.0,MM
+P0458,Vis I Class Induction Kadai 275mm,VIS,Kitchenware,275.0,MM
+P0459,Vis I Class Kal Dosai Tawa 315/5mm,VIS,Kitchenware,5.0,MM
+P0460,Vis I-Class Induction Gravy Pot 4 Ltr,VIS,Kitchenware,4.0,L
+P0461,Vis I-Class Induction Paper Roast Tawa 315/4 mm,VIS,Kitchenware,4.0,MM
+P0462,Vis Idly Kuzhi Paniyaram 7k,VIS,Kitchenware,,
+P0463,Vis Idly Kuzhi Paniyaram 9k,VIS,Kitchenware,,
+P0464,Vis Induction Tawa 285mm/3.4mm,VIS,Kitchenware,285.0,MM
+P0465,Vis Induction Tawa 300mm/3.4mm,VIS,Kitchenware,300.0,MM
+P0420,VIS SS URAL NO.0,VIS,Kitchenware,,
+P0421,VIS SS URAL NO.1,VIS,Kitchenware,,
+P0422,VIS SS URAL NO.2,VIS,Kitchenware,,
+P0423,VIS SS URAL NO.3,VIS,Kitchenware,,
+P0470,Vis Polish Induction Kadai,VIS,Kitchenware,,
+P0424,VIS SS URAL NO.4,VIS,Kitchenware,,
+P0425,VIS SS URAL NO.5,VIS,Kitchenware,,
+P0426,VIS SS URAL NO.6,VIS,Kitchenware,,
+P0427,VIS SS URAL NO.7,VIS,Kitchenware,,
+P0475,Vis Pro FH Tawa 300/5mm,VIS,Kitchenware,5.0,MM
+P0483,Vis Sunny Panniyakuzhi 9K/50mm,VIS,Kitchenware,50.0,MM
+P0429,VIS WHITE MUG,VIS,Kitchenware,,
+P0488,Vis. I Class Mixi 750w / 3 Jar,VIS,Kitchenware,,
+P0479,Vis Sunny Appachatty with Lid Pro,VIS,Kitchenware,,
+P0480,Vis Sunny Deep Appachatty with Lid,VIS,Kitchenware,,
+P0481,Vis Sunny Paniyaram 12k,VIS,Kitchenware,,
+P0482,Vis Sunny Paniyaram 7k/50mm,VIS,Kitchenware,50.0,MM
+P0489,Vis. Idi Ural Size - 1,VIS,Kitchenware,,
+P0484,Vis V Smart Induction Cooker 5 Ltr,VIS,Kitchenware,5.0,L
+P0485,Vis. Bottu Kadai,VIS,Kitchenware,,
+P0486,Vis. Eco + 550w Mixie Hybrid,VIS,Appliances,,
+P0487,Vis. Emery Kadai,VIS,Kitchenware,,
+P0490,Vis. Idi Ural Size - 2,VIS,Kitchenware,,
+P0491,Vis. Idi Ural Size - 3,VIS,Kitchenware,,
+P0492,Vis. Idi Ural Size - 4,VIS,Kitchenware,,
+P0493,Vis. Idi Ural Size - 5,VIS,Kitchenware,,
+P0494,Vis. Idi Ural Size - 6,VIS,Kitchenware,,
+P0495,Vis. Pro Paniyarakuzhi 19k Red,VIS,Kitchenware,,
+P0496,Vis. SS Kitchen Press,VIS,Kitchenware,,
+P0497,Vis. SS Smart Sevanazhi,VIS,Kitchenware,,
+P0434,VISALAM MULTI PUTTU KUDAM [3],,Kitchenware,,
+P0435,VISALAM MULTI PUTTU KUDAM [5],,Kitchenware,,
+P0498,Vis. V.Smart Mixie 750w 4-Jar,VIS,Appliances,,
+P0499,Vis. Vista Mixie 750w 3 Jar,VIS,Appliances,,
+P0500,Vis. Vsmart Induction Cooker 7.5 Ltr,VIS,Kitchenware,7.5,L
+P0501,Wet Grinder 2 Ltr [name struck through on invoice],,Appliances,2.0,L
