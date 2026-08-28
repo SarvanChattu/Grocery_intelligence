@@ -100,6 +100,8 @@ against an independent target separates the two.
    the otherwise-expensive supplier is cheaper on it. The defensible
    recommendation is per-product supplier choice plus a second quote before
    every reorder, not "switch suppliers".
+   
+   Method note: gap % is defined as (supplier price − best price for the product) ÷ best price, computed per product on the source data. Gaps recomputed from the public sample will differ from the published range: the anonymization preserves aggregate ratios (totals, counts, supplier shares) exactly, while individual prices — and therefore pair-level gaps — are intentionally perturbed for client confidentiality.
 
 ## The dashboard
 
